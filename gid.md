@@ -45,9 +45,17 @@ Master.
 **git remote add origin https://github.com/DurdenRD/Git_Start.git** - адресс репозитория на GitHub
 **git branch -M main** - имя главной ветки
 **git push -u origin main** - отправить главную ветку в репозиторий GitHub
+
 **git push** - далее,перенести изменения файла с пк в GitHub
 **git pull** - перенести изменения файла с GitHub на пк
 **git clone** - клонировать репозиторий с GitHub на пк
+
+### Как сделать git clone
+1. **Git clone** <адрес>
+2. **cd** <выбрать папку>
+3. **git log** можем просмотреть изменения
+4. Создаем отдельную ветку для редактирования
+5. отправляем изменения
 
 ### Как сделать pull request
 1. Делаем fork (ответвление) репозитория
