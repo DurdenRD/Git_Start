@@ -45,6 +45,7 @@ Master.
 **git push -u origin main** - отправить главную ветку в репозиторий GitHub
 **git push** - далее,перенести изменения файла с пк в GitHub
 **git pull** - перенести изменения файла с GitHub на пк
+**git clone** - клонировать репозиторий с GitHub на пк
 
 ### Markdown
 
