@@ -40,10 +40,10 @@ Master.
 
 ### GitHub
 
-git remote add origin https://github.com/DurdenRD/Git_Start.git - адресс репозитория на GitHub
-git branch -M main - имя главной ветки
-git push -u origin main - отправить главную ветку в репозиторий GitHub
-git push - далее, после регистрации обновляет файл на GitHub
+**git remote add origin https://github.com/DurdenRD/Git_Start.git** - адресс репозитория на GitHub
+**git branch -M main** - имя главной ветки
+**git push -u origin main** - отправить главную ветку в репозиторий GitHub
+**git push** - далее, после регистрации обновляет файл на GitHub
 
 ### Markdown
 
